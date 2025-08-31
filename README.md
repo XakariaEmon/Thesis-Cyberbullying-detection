@@ -1,7 +1,8 @@
 ---
-title: "Real-Time Detection of Cyberbullying Using Transformer Models: A Multilingual Approach"
+title: "Ensemble Learning in Cyberbullying Detection Using Transformer Models: A Multilingual and Explainable-AI Approach"
 authors:
   - Faria Islam (202114021)
+  - Ahmad Abdullah(202114008)
   - Md Zakaria Hossen Emon (202114060)
 supervisor: "Professor Dr. Fernaz Narin Nur"
 institute: "Military Institute of Science and Technology (MIST)"
