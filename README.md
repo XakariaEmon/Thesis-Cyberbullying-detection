@@ -1,7 +1,6 @@
 ---
 title: "Real-Time Detection of Cyberbullying Using Transformer Models: A Multilingual Approach"
 authors:
-  - Ahmad Abdullah (202114008)
   - Faria Islam (202114021)
   - Md Zakaria Hossen Emon (202114060)
 supervisor: "Professor Dr. Fernaz Narin Nur"
